@@ -94,11 +94,14 @@ Before class, please ensure you have the following ready:
 
 Try to answer these without looking back at the text\!
 
-1. **Scenario:** You have a dataset of 1,000 students. The "Age" column has 50 missing values. Would you drop those 50 rows or fill them with the average age? Why?  *Ans: Replace missing age with the medium age since students are about the same age group in a cohort*  
-2. **True or False:** The .describe() function gives you the same output for a column of text names as it does for a column of prices.  *Ans: Yes because they are the same data type*  
-4. **Definition:** What is the difference between an integer and a float?
+1. **Scenario:** You have a dataset of 1,000 students. The "Age" column has 50 missing values. Would you drop those 50 rows or fill them with the average age? Why?  
+   *Ans: Replace missing age with the medium age since students are about the same age group in a cohort*  
+3. **True or False:** The .describe() function gives you the same output for a column of text names as it does for a column of prices.  
+   *Ans: Yes because they are the same data type*  
+5. **Definition:** What is the difference between an integer and a float?  
    *Ans: integer is a whole number whereas a flot is a decimal numer*  
-6. **Regex:** If you wanted to extract prices from text, what kind of pattern might you look for? (e.g., specific symbols or character types).  *Ans: Search for numbers in the text*
+6. **Regex:** If you wanted to extract prices from text, what kind of pattern might you look for? (e.g., specific symbols or character types).  
+   *Ans: Search for numbers in the text*
 
 
 
